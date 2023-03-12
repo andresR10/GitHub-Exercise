@@ -1,10 +1,16 @@
-mmkdir GitHub_Ex 
+1. mmkdir GitHub_Ex 
 cd GitHub_Ex/
 git init 
 touch GitHub_Exercise.txt 
 git add .
 git commit -m "create and complete exercises"
-on GitHub create new repo 
+
+2.on GitHub create new repo 
 copy and paste git remote add origin URL 
 git push -u origin master 
- 
+
+3. git checkout -b creating_remoteB
+git add .
+git commit -m "completed number 3 and 4"
+
+
