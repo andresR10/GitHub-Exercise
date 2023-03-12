@@ -9,8 +9,10 @@ git commit -m "create and complete exercises"
 copy and paste git remote add origin URL 
 git push -u origin master 
 
-3. git checkout -b creating_remoteB
+3. inside of GitHub_Ex git checkout -b creating_remoteB
+touch index.html app.css
 git add .
 git commit -m "completed number 3 and 4"
+git push origin creating_remoteB 
 
 
