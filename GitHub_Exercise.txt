@@ -1,0 +1,6 @@
+mmkdir GitHub_Ex 
+cd GitHub_Ex/
+git init 
+touch GitHub_Exercise.txt 
+git add .
+git commit -m "create and complete exercises"
