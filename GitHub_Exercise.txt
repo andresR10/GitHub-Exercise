@@ -4,3 +4,7 @@ git init
 touch GitHub_Exercise.txt 
 git add .
 git commit -m "create and complete exercises"
+on GitHub create new repo 
+copy and paste git remote add origin URL 
+git push -u origin master 
+ 
